@@ -7,6 +7,7 @@ This site serves as a live record of my technical labs, architectural designs, a
 ## 🔗 Connect With Me
 * **LinkedIn:** [My Professional Profile](https://www.linkedin.com/in/damianrank/)
 * **GitHub:** [My Technical Vault](https://github.com/damianrank)
+* **Notion:** [My Portfolio](https://damian-rank-cyber-portfolio.notion.site/Damian-Rank-Cybersecurity-Portfolio-414e69b0b68f80519956ebe0e6ef819b)
 
 ## 🛠️ Projects & Labs
 
