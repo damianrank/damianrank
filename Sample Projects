@@ -1,25 +1,21 @@
-Github template 
 # Server/Services Configuration 
-**Date:** [October, 2026]  
-**Security Domain:** [e.g., Network Infrastructure, Physical Security, Endpoint Security]  
-**Tools & Hardware Used:** [e.g., Cisco Packet Tracer, Draw.io, Wireshark, Lockpick Set, Ubuntu 22.04]  
+##Date: [October, 2026]  
+##Security Domain: Logical Security/Configurations 
+Tools & Hardware Used: Linux VMs (CentOS version 9 & MintOS Version 22) 
 
 ---
 
 ## 1. Scenario & Objective
-*What was the business or technical goal of this project? (Write 2-3 sentences).*
+# In a class at CVTC called Linux 2, I was presented with a VM for a Linux OS where I used CentOS as my server and MintOS as a client machine. During the duration of my time within that class I went through different configuration steps to configure some or the more basic and known server services with some being DNS, DHCP, Firewall configs, and more.
 
-**Example:** A small business required a segmented network to separate guest Wi-Fi traffic from internal employee data. The objective of this project was to design the network topology, configure VLANs on a Cisco switch, and verify isolation between the two networks.
-
-## 2. Architecture & Design
-*Insert a diagram, network topology, or photo of your lab setup here. (If physical security, upload a photo of the hardware or a floor plan).*
+## 2. Architecture & Design-
 
 ![Insert Image Description Here](image-link-goes-here.jpg)
 *Caption: Network topology created in Draw.io showing VLAN 10 (Internal) and VLAN 20 (Guest).*
 
 ## 3. Methodology & Execution
 *Document the core steps you took to complete the objective. Focus on the **why**, not just the **what**. Do not dump every single command you typed—capture the important decisions.*
-
+The main way this was done since it was newer to me was to look for guides about the specific tools I used and research deeper for the next step and to troubleshoot as needed. 
 1. **Initial Assessment:** [What did you check first?]
    * *Observation:* [What did you see?]
 2. **Configuration / Execution:** [What changes did you make?]
